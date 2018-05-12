@@ -1,0 +1,56 @@
+_repo: The-Sexual-Life-of-the-Child_28402
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Thorndike, Edward L. (Edward Lee)
+    aliases:
+    - Thorndike, Edward Lee
+    - Thorndike, E. L. (Edward Lee)
+    birthdate: 1874
+    deathdate: 1949
+    gutenberg_agent_id: '33314'
+    url: http://www.gutenberg.org/2009/agents/33314
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Thorndike
+  translator:
+    agent_name: Paul, Eden
+    aliases:
+    - Paul, M. Eden (Maurice Eden)
+    - Paul, Maurice Eden
+    birthdate: 1865
+    deathdate: 1944
+    gutenberg_agent_id: '389'
+    url: http://www.gutenberg.org/2009/agents/389
+    wikipedia: http://en.wikipedia.org/wiki/Eden_Paul
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moll, Albert
+    birthdate: 1862
+    deathdate: 1939
+    gutenberg_agent_id: '33313'
+    url: http://www.gutenberg.org/2009/agents/33313
+description: '"Dr. Moll is a gifted physician of long experience whose work with those
+  problems of medicine and hygiene which demand scientific acquaintance with human
+  nature has made him well known to experts in these fields. In this book he has undertaken
+  to describe the origin and development, in childhood and youth, of the acts and
+  feelings due to sex; to explain the forces by which sex-responses are directed and
+  misdirected; and to judge the wisdom of existing and proposed methods of preventing
+  the degradation of a child''s sexual life"--Introduction. (PsycINFO Database Record
+  (c) 2010 APA, all rights reserved).'
+gutenberg_bookshelf: Sociology
+gutenberg_issued: '2009-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Sex instruction'
+- !lcsh 'Children -- Sexual behavior'
+title: The Sexual Life of the Child
+url: http://www.gutenberg.org/ebooks/28402
